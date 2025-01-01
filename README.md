@@ -1,6 +1,13 @@
 # leetcode---1422
 Maximum Score After Splitting a String 
 code in java
+
+
+
+
+
+
+
 public class Solution {
     public int maxScore(String s) {
         int maxScore = 0;
