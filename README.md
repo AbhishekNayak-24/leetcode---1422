@@ -7,7 +7,7 @@ kkkk
 llll
 
 
-
+kkk
 public class Solution {
     public int maxScore(String s) {
         int maxScore = 0;
