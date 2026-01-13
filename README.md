@@ -18,7 +18,7 @@ public class Solution {
             maxScore = Math.max(maxScore, score);
         }
         return maxScore;
-    }lll
+    }lllmmm
 
     private int countZeros(String s) {
         int count = 0;
