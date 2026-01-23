@@ -3,7 +3,7 @@ Maximum Score After Splitting a String
 code in java
 
 kkkk
-
+kkkkk
 llll
 mmm
 
@@ -37,7 +37,7 @@ public class Solution {
             if (c == '1') {
                 count++;
             }
-        }
+        }mmmmmmm
         return count;
     }
 }
