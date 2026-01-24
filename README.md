@@ -5,7 +5,7 @@ code in java
 kkkk
 kkkkk
 llll
-mmm
+mmllllll
 
 kkkllll
 public class Solution {
