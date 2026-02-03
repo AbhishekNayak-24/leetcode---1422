@@ -2,10 +2,7 @@
 Maximum Score After Splitting a String 
 code in java
 
-kkkk
-kkkkk
-llll
-mmllllll
+
 
 kkkllll
 public class Solution {
