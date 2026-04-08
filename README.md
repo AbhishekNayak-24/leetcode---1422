@@ -1,7 +1,6 @@
 # leetcode---1422
 Maximum Score After Splitting a String 
-code in java
-
+code in ja
 
 
 
