@@ -14,8 +14,7 @@ public class Solution {
             maxScore = Math.max(maxScore, score);
         }nnnnnnmmmmm
         return maxScore;lookii
-    }
-
+    
     private int countZeros(String s) {
         int count = 0;
         for (char c : s.toCharArray()) {
