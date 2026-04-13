@@ -13,7 +13,7 @@ public class Solution {
             int score = countZeros(left) + countOnes(right);
             maxScore = Math.max(maxScore, score);
         }nnnnnnmmmmm
-        return maxScore;lookii
+        return maxScore;look
     
     private int countZeros(String s) {
         int count = 0;
